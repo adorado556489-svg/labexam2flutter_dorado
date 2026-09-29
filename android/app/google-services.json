@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58600786832",
+    "project_id": "labexam2-20eb0",
+    "storage_bucket": "labexam2-20eb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58600786832:android:c70bb88036bef3d52a8115",
+        "android_client_info": {
+          "package_name": "com.example.labexam2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-oVKwXrkQ8dxxr3mBQHOMqvxovRWg8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
